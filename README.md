@@ -7,7 +7,7 @@
 2. Find the correct place to click
 3. Run the program
 ## Files Used
-==GitHub direction sheet==
+I need to highlight these words ==GitHub direction sheet==.
 ## Additional Documentation
 **There is no additional documentation**
 ## Versioning
