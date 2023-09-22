@@ -1,10 +1,17 @@
-# H1 Project Title
-## H2 Description
-### H3 How to Run Program
-#### H4 Files Used
-##### Additional Documentation
-###### Versioning
-
+# Project Title
+**Will Kramer GitHub**
+## Description
+*This is my first GitHub project*
+## How to Run Program
+1. First locate the README file
+2. Find the correct place to click
+3. Run the program
+## Files Used
+==GitHub direction sheet==
+## Additional Documentation
+**There is no additional documentation**
+## Versioning
+*This is version number 1*
 
 
 
